@@ -1,7 +1,6 @@
 "use client";
 import Image from "next/image";
 import { testimoni } from "@/utils/testimoni";
-import clsx from "clsx";
 import React from "react";
 import { motion } from "framer-motion";
 
